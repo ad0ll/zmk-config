@@ -1,0 +1,1 @@
+west build -d build/left -b nice_nano -- -DSHIELD=lily58_left -DZMK_CONFIG=C:\Users\mecha\orgmode\projects\zmk_config\lily58.keymap'
